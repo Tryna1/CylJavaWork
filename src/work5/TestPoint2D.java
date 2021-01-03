@@ -1,0 +1,29 @@
+package work5;
+
+//5.9.5
+//import java.util.Scanner;
+//import javafx.geometry.Point2D;
+//
+//public class TestPoint2D {
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		Scanner input = new Scanner(System.in);
+//		
+//		System.out.print("Enter pointl's x-t y-coordinates: ");
+//		double x1 = input.nextDouble();
+//		double y1 = input.nextDouble();
+//		System.out.print("Enter point2's x-, y-coordinates: ");
+//		double x2 = input.nextDouble();
+//		double y2 = input.nextDouble();
+//		
+//		Point2D p1 = new Point2D();
+//		Point2D p2 = new Point2D();
+//		System.out.println("p1 is " + p1.String());
+//		System.out.println("p2 is " + p2.String());
+//		System.out.println("The distance between p1 and p2 is " +
+//			p1.distance(p2));
+//		
+//	}
+//
+//}
